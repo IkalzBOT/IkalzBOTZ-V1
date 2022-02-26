@@ -34,12 +34,12 @@
 ---
 
 ## Information
-> Alpahbot-Md adalah bot yang memakai base dari [Chikabot](https://github.com/rashidsiregar28/chikabot/blob/main/README.md) . Alphabot-Md is a bot whatsapp using a Baileys library.
+> IkalzBOTZ-V1 adalah bot yang memakai base dari [Chikabot](https://github.com/rashidsiregar28/chikabot/blob/main/README.md) . IkalzBOTZ-V1 is a bot whatsapp using a Baileys library.
 > Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
 
 ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-alpha](https://wa.me/62887435047326)
+* Info Lebih Lanjut, Chat [owner-Ikalzo](http://wa.me/6285771923798)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -50,7 +50,7 @@
 ## For Windows
 ```bash
 git clone https://github.com/zeeoneofc/Alphabot-Md.git
-cd Alphabot-Md
+cd IkalzBOTZ-V1
 npm install
 node main
 ```
@@ -60,7 +60,7 @@ termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg
 git clone https://github.com/zeeoneofc/Alphabot-Md.git
-cd Alphabot-Md
+cd IkalzBOTZ
 npm install
 node main
 ```
